@@ -1,6 +1,6 @@
 {
   "name": "sunapi-node",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Node.js SDK for Samsung SUNAPI (Samsung Unified Network API) - A comprehensive library for interacting with Samsung surveillance cameras and devices",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
